@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Remove to Make Valid Parentheses,100.0,0.7074654274676669,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"
+DONE, MEDIUM,Minimum Remove to Make Valid Parentheses,100.0,0.7074654274676669,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"
 EASY,Valid Word Abbreviation,95.4,0.3685159507201697,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
 MEDIUM,Binary Tree Vertical Order Traversal,93.4,0.5714118828755629,https://leetcode.com/problems/binary-tree-vertical-order-traversal,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree"
 EASY,Valid Palindrome II,92.7,0.43027139295006883,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
