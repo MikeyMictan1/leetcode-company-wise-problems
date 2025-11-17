@@ -11,7 +11,7 @@ Y,MEDIUM,Lowest Common Ancestor of a Binary Tree,82.9,0.6675499347216417,https:/
 Y,MEDIUM,Find Peak Element,82.9,0.4650925742800201,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"
 Y,MEDIUM,Nested List Weight Sum,81.7,0.8554000344037734,https://leetcode.com/problems/nested-list-weight-sum,"Depth-First Search, Breadth-First Search"
 Y,MEDIUM,Random Pick with Weight,80.5,0.4827836751158982,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
-N,MEDIUM,Sum Root to Leaf Numbers,80.5,0.6852760683519554,https://leetcode.com/problems/sum-root-to-leaf-numbers,"Tree, Depth-First Search, Binary Tree"
+Y,MEDIUM,Sum Root to Leaf Numbers,80.5,0.6852760683519554,https://leetcode.com/problems/sum-root-to-leaf-numbers,"Tree, Depth-First Search, Binary Tree"
 N,EASY,Diameter of Binary Tree,79.2,0.6358636823587297,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
 N,MEDIUM,Top K Frequent Elements,77.9,0.6456597479097793,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
 N,MEDIUM,Merge Intervals,77.9,0.4939526774846352,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
